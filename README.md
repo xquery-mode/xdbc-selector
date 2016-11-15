@@ -2,6 +2,11 @@
 
 This is the beginning of convenience tools for interacting with MarkLogic.
 
+## Replaced by Oook selector
+
+The xdbc-selector was replaced by
+[Oook selector](https://github.com/xquery-mode/Oook-selector).
+
 ## Warning
 
 It is not even alpha but just some very early work and might change a lot.
